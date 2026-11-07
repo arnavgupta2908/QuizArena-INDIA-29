@@ -1,0 +1,6 @@
+{
+  "name": "QuizArena India - Online Quiz Competition Portal",
+  "description": "Official registration and competition portal for QuizArena India. Think. Compete. Win.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

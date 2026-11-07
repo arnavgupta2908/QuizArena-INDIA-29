@@ -1,0 +1,148 @@
+{
+  "participants": [],
+  "payments": [],
+  "competitions": [
+    {
+      "id": "comp_national_2026",
+      "title": "QuizArena All-India National Championship 2026",
+      "subtitle": "General Knowledge, Science, History & Current Affairs",
+      "description": "The biggest intellectual battleground for Indian minds. 50 high-impact questions, 45 minutes, tested on speed, accuracy, and depth of reasoning.",
+      "registration_fee": 50,
+      "start_date": "2026-12-30T10:00:00+05:30",
+      "end_date": "2026-12-30T23:59:59+05:30",
+      "registration_enabled": true,
+      "status": "ACTIVE",
+      "prizes": [
+        {
+          "rank": "1st Prize (Champion)",
+          "prize": "Brand New Laptop + National Gold Trophy + Certificate of Championship",
+          "icon": "laptop"
+        },
+        {
+          "rank": "2nd to 5th Prize",
+          "prize": "Smart Mobilephone + Silver Trophy/Medal + Certificate of Excellence",
+          "icon": "smartphone"
+        },
+        {
+          "rank": "5th to 10th Prize",
+          "prize": "Smartwatch & Headphones + Certificate of High Merit",
+          "icon": "watch"
+        },
+        {
+          "rank": "All Participants",
+          "prize": "Official Digital Certificate of National Participation with Verified QR",
+          "icon": "file-check"
+        }
+      ],
+      "rules": [
+        "Total 50 multiple choice questions (MCQ).",
+        "45 Minutes overall exam duration.",
+        "+2 Marks for every correct answer, -0.5 for wrong answers to discourage blind guessing.",
+        "Tie-breaker is determined by the total submission time recorded by the server.",
+        "Accessible on any smartphone, tablet, laptop, or desktop with a modern browser."
+      ],
+      "topics": [
+        "Indian History & Heritage",
+        "Science & Modern Technology",
+        "Geography & Wildlife of India",
+        "Sports, Olympics & Cricket",
+        "Current Affairs & National Governance",
+        "Logical Reasoning & Brain Teasers"
+      ]
+    }
+  ],
+  "settings": {
+    "website_title": "QUIZARENA INDIA",
+    "tagline": "Think. Compete. Win.",
+    "hero_heading": "Challenge Your Knowledge. Prove Your Skills.",
+    "hero_subheading": "India's premier national online quiz championship. Compete with bright minds across the nation, test your intellect across General Knowledge, Science, History & Current Affairs, and win cash prizes, medals & national certificates.",
+    "registration_fee": 50,
+    "registrations_open": true,
+    "payment_qr_image": "/assets/aistudio/qr_code_cropped.png",
+    "contact_email": "support@quizarena.in",
+    "contact_phone": "+91 98765 43210",
+    "contact_whatsapp": "+91 98765 43210",
+    "announcement_banner": "⚡ Exam on 30th December 2026! Last Date of Registration: 30th December 2026.",
+    "faqs": [
+      {
+        "question": "Who is eligible to participate in QuizArena India?",
+        "answer": "Anyone aged 10 to 60 residing in India or of Indian origin can participate. The quiz questions are curated with multi-level cognitive logic suitable for students, college scholars, and working professionals alike."
+      },
+      {
+        "question": "How do I pay the ₹50 registration fee?",
+        "answer": "You can use any UPI app (PhonePe, Google Pay, Paytm, BHIM, Cred, Amazon Pay, or bank UPI). Simply scan the official QuizArena QR code shown during Step 2 of registration, complete the ₹50 payment, copy the 12-digit UTR/UPI Transaction ID, upload the screenshot, and submit!"
+      },
+      {
+        "question": "Why is my registration showing \"PENDING\"?",
+        "answer": "For 100% security and to eliminate duplicate or fraudulent submissions, every UPI transaction ID and screenshot is manually verified by the QuizArena India verification team. Once verified, your status will turn CONFIRMED."
+      },
+      {
+        "question": "When and how will the quiz take place?",
+        "answer": "The quiz is conducted completely online on a secure proctored portal. Confirmed participants receive their login credentials, admit link, and exam time slot via email and SMS/WhatsApp 48 hours before the event."
+      },
+      {
+        "question": "What are the prizes and recognition awarded?",
+        "answer": "Top 3 rankers receive Grand Cash Prizes, Gold/Silver/Bronze Trophies, and Framed Certificates of Merit delivered to their doorstep. Top 50 participants receive Cash Vouchers and Certificates of Excellence, and all verified participants receive an official Certificate of Participation."
+      },
+      {
+        "question": "Is the registration fee refundable?",
+        "answer": "Registration fees are non-refundable once your registration has been submitted and verified, as server slots and examination licenses are booked immediately. In case of payment deduplication or rejected registrations, refund requests are processed within 5-7 business days."
+      }
+    ],
+    "terms_and_conditions": "QUIZARENA INDIA - TERMS & CONDITIONS\n1. Nature of Competition: QuizArena India is an intellectual skill-based online quiz tournament. No element of chance or lottery is involved.\n2. Eligibility: Participants must provide accurate full name, valid Indian phone number, and state. Impersonation will result in immediate disqualification.\n3. Registration & Fee: A nominal participation fee of ₹50 is required to cover cloud server infrastructure, proctoring security, and evaluation logistics.\n4. Verification: All payments are subjected to manual UTR verification. Submitting fake, altered, or duplicate UTR numbers will permanently ban the participant.\n5. Code of Conduct: Participants agree not to use unauthorized browser extensions, AI tools, or secondary devices during the quiz.\n6. Decision of Judges: The QuizArena jury's score evaluation and rank determination are final and binding.",
+    "privacy_policy": "QUIZARENA INDIA - PRIVACY POLICY\nWe respect and protect your personal information.\n1. Information Collected: Full Name, Contact Mobile, Email, State, City, and payment proof (UTR and transaction receipt).\n2. Purpose: Data is solely utilized for participant authentication, admit card generation, prize distribution, and critical competition updates.\n3. Security: Payment screenshots and participant credentials are encrypted and stored in private directories accessible only to authorized administrators.\n4. Third Parties: We never sell, rent, or trade your personal data to third-party marketing companies.",
+    "refund_policy": "QUIZARENA INDIA - REFUND & CANCELLATION POLICY\n1. As slot reservation and question-paper provisioning happen instantaneously, registration fees once verified are non-refundable.\n2. In the rare event of duplicate payment debits for the same participant, excess amount will be refunded upon manual review within 7 working days.\n3. If an application is rejected by the administration due to illegible or failed payment receipts, the participant may re-upload a valid proof or contact support."
+  },
+  "admins": [
+    {
+      "id": "admin_1",
+      "email": "arnavgupta2580@gmail.com",
+      "name": "Arnav Gupta (Super Admin)",
+      "password_hash": "9a62c495dedf0fe791dc5778be3f7b7dfa45d3a2d362e4a1ce7298273c23976fae618a3bbf599e37cd09839be5cfd9f87f8e7d514960d5c99dc438acf126effc",
+      "salt": "89225e64cbba67d0fb651b8d34490521",
+      "role": "SUPER_ADMIN",
+      "created_at": "2026-11-07T05:44:09.431Z"
+    },
+    {
+      "id": "admin_2",
+      "email": "admin@quizarena.in",
+      "name": "QuizArena Administrator",
+      "password_hash": "9a62c495dedf0fe791dc5778be3f7b7dfa45d3a2d362e4a1ce7298273c23976fae618a3bbf599e37cd09839be5cfd9f87f8e7d514960d5c99dc438acf126effc",
+      "salt": "89225e64cbba67d0fb651b8d34490521",
+      "role": "SUPER_ADMIN",
+      "created_at": "2026-11-07T05:44:09.431Z"
+    }
+  ],
+  "email_settings": {
+    "enabled": true,
+    "admin_notification_email": "arnavgupta2580@gmail.com",
+    "smtp_host": "",
+    "smtp_port": 587,
+    "smtp_user": "",
+    "smtp_pass": "",
+    "smtp_secure": false,
+    "from_email": "alerts@quizarena.in"
+  },
+  "email_logs": [
+    {
+      "id": "alert_1794031353585_i8pf8",
+      "registration_id": "QAI-2026-45023",
+      "participant_name": "Priya Sharma",
+      "recipient_email": "arnavgupta2580@gmail.com",
+      "subject": "⚡ [NEW REGISTRATION] Priya Sharma (QAI-2026-45023) - Payment Verification Required",
+      "content": "\n[QUIZARENA INDIA - NEW REGISTRATION ALERT]\n\nA new participant has submitted their registration and payment:\n\nRegistration ID: QAI-2026-45023\nParticipant: Priya Sharma\nMobile: +91 9811223344\nEmail: priya.sharma@example.com\nLocation: Lucknow, Uttar Pradesh\nAmount: ₹50\nUPI UTR: 512903847192\nStatus: PENDING VERIFICATION\n\nTo verify or reject this payment, open the Admin Console:\nhttp://localhost:3000/#admin\n",
+      "sent_at": "2026-11-07T06:02:33.585Z",
+      "status": "SIMULATED"
+    },
+    {
+      "id": "alert_1794031345768_woqms",
+      "registration_id": "QAI-TEST-99999",
+      "participant_name": "Test Candidate (Sample)",
+      "recipient_email": "arnavgupta2580@gmail.com",
+      "subject": "⚡ [NEW REGISTRATION] Test Candidate (Sample) (QAI-TEST-99999) - Payment Verification Required",
+      "content": "\n[QUIZARENA INDIA - NEW REGISTRATION ALERT]\n\nA new participant has submitted their registration and payment:\n\nRegistration ID: QAI-TEST-99999\nParticipant: Test Candidate (Sample)\nMobile: +91 9876543210\nEmail: arnavgupta2580@gmail.com\nLocation: New Delhi, Delhi (NCT)\nAmount: ₹50\nUPI UTR: 439201948201\nStatus: PENDING VERIFICATION\n\nTo verify or reject this payment, open the Admin Console:\nhttp://localhost:3000/#admin\n",
+      "sent_at": "2026-11-07T06:02:25.768Z",
+      "status": "SIMULATED"
+    }
+  ]
+}
